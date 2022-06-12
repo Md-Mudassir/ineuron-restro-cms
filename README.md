@@ -7,6 +7,8 @@ email:dev@ineuron.ai
 password:@Ineuron1
 ```
 
+### [View iNeuron Restro UI Repo](https://github.com/Md-Mudassir/ineuron-restro-ui)
+
 ### Screenshots
 
 <img width="1440" alt="content-manager" src="https://user-images.githubusercontent.com/43651895/173210522-b487bd32-609d-453b-bb64-c79723c2594c.png">
